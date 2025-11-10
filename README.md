@@ -1,4 +1,13 @@
-## Hi there 👋 I'm Nam!
+# Hi, I'm Nam 👋
+
+### Computer Science student majoring in Artificial Intelligence at UNSW
+
+---
+
+## 🧠 About Me
+- 🎓 Studying **Computer Science (AI)** at the **University of New South Wales (UNSW)**
+- 💻 Passionate about **machine learning, data science, and backend development**
+- 🤖 Exploring **deep learning, computer vision**, and **AI-driven systems**
 
 ### 📊 GitHub Stats
 ![thnam02's Stats](https://github-readme-stats-orcin-beta-93.vercel.app/api?username=thnam02&show_icons=true&theme=calm)
