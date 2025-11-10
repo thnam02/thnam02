@@ -4,14 +4,18 @@
 
 ### 3rd-year Computer Science student majoring in Artificial Intelligence at UNSW  
 
+</div>
+
 ---
 
 ## About Me  
 - Studying **Computer Science (AI)** at the **University of New South Wales (UNSW)**  
-- Working on **backend systems**, **AI/LLMs**, and **computer vision applications**
-- Exploring **machine learning** and **deep learning**
+- Working on **backend systems**, **AI/LLMs**, and **computer vision applications**  
+- Exploring **machine learning** and **deep learning**.
 
 ---
+
+<div align="center">
 
 ## Tech Stack  
 <p align="center">
