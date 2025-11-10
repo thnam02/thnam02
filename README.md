@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nam  
+# Hi, I'm Nam  
 
 ### 3rd-year Computer Science student majoring in Artificial Intelligence at UNSW  
 
