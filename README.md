@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nam  
+# 👋 Hi, I'm Nam  
 
 ### 3rd-year Computer Science student majoring in Artificial Intelligence at UNSW  
 
@@ -8,20 +8,16 @@
 
 ## About Me  
 Studying **Computer Science (AI)** at the **University of New South Wales (UNSW)**  
-Passionate about **machine learning, data science, and backend development**  
-Exploring **deep learning, computer vision**, and **AI-driven systems**  
+Passionate about **machine learning, computer vision, and backend engineering**  
 
 ---
 
 ## Tech Stack  
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
