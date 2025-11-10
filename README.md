@@ -7,8 +7,9 @@
 ---
 
 ## About Me  
-Studying **Computer Science (AI)** at the **University of New South Wales (UNSW)**  
-Passionate about **machine learning, computer vision, and backend engineering**  
+- Studying **Computer Science (AI)** at the **University of New South Wales (UNSW)**  
+- Working on **backend systems**, **AI/LLMs**, and **computer vision applications**
+- Exploring **machine learning** and **deep learning**
 
 ---
 
