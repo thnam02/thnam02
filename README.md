@@ -34,8 +34,5 @@
   <img src="https://github-readme-stats-orcin-beta-93.vercel.app/api?username=thnam02&show_icons=true&theme=calm" height="160"/>
   <img src="https://github-readme-stats-orcin-beta-93.vercel.app/api/top-langs/?username=thnam02&layout=compact&theme=calm" height="160"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thnam02&theme=calm"/>
-</p>
 
 </div>
