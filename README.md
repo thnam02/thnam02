@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hai+Nam+Tran+%F0%9F%91%8B;CS+(AI)+Student+%40+UNSW;" alt="Typing animation" />
 
 <br />
-<h3>3rd Year CS Student at UNSW, Majoring in AI</h3>
+<h3>3rd-year Computer Science Majoring in AI at UNSW</h3>
 
 <p>
   <img src="https://img.shields.io/badge/CS%20(AI)%20—%20UNSW-0D1117?style=for-the-badge&logo=university&logoColor=58A6FF&labelColor=161B22" alt="University" />
