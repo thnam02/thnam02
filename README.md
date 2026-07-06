@@ -3,10 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hai+Nam+Tran+%F0%9F%91%8B;CS+(AI)+Student+%40+UNSW;Building+intelligent+systems" alt="Typing animation" />
 
 <br />
-
-<h1>Hai Nam Tran</h1>
-
-<h3>3rd Year CS S</h3>
+<h3>3rd Year CS Student at UNSW, Majoring in AI</h3>
 
 <p>
   <img src="https://img.shields.io/badge/CS%20(AI)%20—%20UNSW-0D1117?style=for-the-badge&logo=university&logoColor=58A6FF&labelColor=161B22" alt="University" />
@@ -63,18 +60,6 @@
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
