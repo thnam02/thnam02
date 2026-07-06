@@ -62,6 +62,8 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thnam02&theme=tokyonight" alt="GitHub Stats" />
