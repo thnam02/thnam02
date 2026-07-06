@@ -64,8 +64,6 @@
 
 <div align="center">
 
-<br />
-
-<img src="https://stats.pphat.top/stats?username=thnam02&theme=tokyonight&avatar_mode=radar&hide_title=true" width="700" alt="GitHub Activity Radar" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thnam02&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
