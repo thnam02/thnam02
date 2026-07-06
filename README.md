@@ -8,9 +8,6 @@
 <p>
   <img src="https://img.shields.io/badge/CS%20(AI)%20—%20UNSW-0D1117?style=for-the-badge&logo=university&logoColor=58A6FF&labelColor=161B22" alt="University" />
   <img src="https://img.shields.io/badge/📍%20Sydney,%20Australia-0D1117?style=for-the-badge&labelColor=161B22&color=1F6FEB" alt="Location" />
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/hai-nam-tran-06a45029a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
