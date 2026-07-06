@@ -30,28 +30,8 @@
   </a>
 </p>
 
-</div>
+<br />
 
----
-
-## 👋 About Me
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 💼 | **AI Software Engineer** at [**JARVIX**](https://www.linkedin.com/company/jarvixai) |
-| 🎓 | **Computer Science (AI)** student at the **University of New South Wales (UNSW)** |
-| 💻 | Building **backend systems**, **AI/LLMs**, and **computer vision** applications |
-| 🏆 | **3rd Place** at Hack2Heal 2025 with **ReHabMax AI+** |
-| 🌏 | Based in **Sydney, Australia** — open to collaboration & opportunities |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thnam02&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thnam02&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
