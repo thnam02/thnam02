@@ -30,8 +30,7 @@
 
 **3rd-year Computer Science, majoring in AI at UNSW**
 
-Passionate about backend systems, AI/LLMs, and computer vision.  
-Building practical projects and shipping real-world software.
+Passionate about backend systems, AI/LLMs, and computer vision.
 
 </div>
 
@@ -97,10 +96,6 @@ Building practical projects and shipping real-world software.
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=thnam02&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" alt="Footer" />
 
