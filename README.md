@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=3FB950&center=true&vCenter=true&width=520&lines=Building+intelligent+systems;Backend+%2B+AI+%2F+ML;Open+to+collaboration" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=3FB950&center=true&vCenter=true&width=520&lines=Backend+%2B+AI+%2F+ML;Open+to+collaboration" alt="Typing" />
 
 <br/>
 
