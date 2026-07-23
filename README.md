@@ -92,13 +92,3 @@ Passionate about backend systems, AI/LLMs, and computer vision.
 <img height="165" src="https://streak-stats.demolab.com?user=thnam02&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" alt="Footer" />
-
-<sub>Built with ☕ in Sydney · <a href="https://github.com/thnam02">@thnam02</a></sub>
-
-</div>
