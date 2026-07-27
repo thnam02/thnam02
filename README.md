@@ -76,6 +76,6 @@
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=thnam02&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img height="165" src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
