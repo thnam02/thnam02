@@ -23,19 +23,6 @@
 </div>
 
 ---
-
-## About
-
-<div align="center">
-
-**3rd-year Computer Science, majoring in AI at UNSW**
-
-Passionate about backend systems, AI/LLMs, and computer vision.
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
