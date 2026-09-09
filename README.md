@@ -1,4 +1,4 @@
-<img align="right" height="165" alt="GitHub stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thnam02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+<div align="center">
 
 # Hai Nam Tran
 
@@ -13,23 +13,25 @@ focus      backend · ml · computer vision
 
 [GitHub](https://github.com/thnam02) · [LinkedIn](https://www.linkedin.com/in/hai-nam-tran-06a45029a)
 
-<br clear="both" />
+<br />
 
-## stack
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,react,nextjs,tailwind,vite,fastapi,nodejs,express,pytorch,opencv,sqlite,postgres&theme=dark&perline=8" alt="stack" />
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,react,nextjs,tailwind,vite,fastapi,nodejs,express,pytorch,opencv,sqlite,postgres&theme=dark" alt="stack" />
+<br />
 
-```text
-languages   Python · JavaScript · TypeScript · C · SQL
-frontend    React · Next.js · Tailwind · Vite
-backend     FastAPI · Node.js · Express
-ai/ml       scikit-learn · OpenCV · MediaPipe · PyTorch
-databases   SQLite · PostgreSQL
-```
+`scikit-learn` `MediaPipe`
 
-## activity
+<br />
 
-<img height="165" alt="Top languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thnam02&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-<img height="165" alt="GitHub streak" src="./profile/streak.svg" />
+<img width="46%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thnam02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats" />
+<img width="46%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thnam02&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 
-<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=thnam02&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=contributions" />
+<br />
+
+<img src="./profile/streak.svg" alt="GitHub streak" />
+
+<br />
+
+<img width="92%" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=thnam02&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true&hide_title=true" alt="Contribution graph" />
+
+</div>
