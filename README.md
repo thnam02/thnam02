@@ -1,13 +1,15 @@
 # Hai Nam Tran
 
-3rd-year Computer Science (AI) at UNSW, Sydney.
+`cs (ai)` `unsw` `sydney`
 
-Backend, machine learning, computer vision.
+backend · machine learning · computer vision
 
 [GitHub](https://github.com/thnam02) · [LinkedIn](https://www.linkedin.com/in/hai-nam-tran-06a45029a)
 
-**Languages** — Python, JavaScript, TypeScript, C, SQL  
-**Frontend** — React, Next.js, Tailwind, Vite  
-**Backend** — FastAPI, Node.js, Express  
-**AI / ML** — scikit-learn, OpenCV, MediaPipe, PyTorch  
-**Databases** — SQLite, PostgreSQL
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,react,nextjs,tailwind,vite,fastapi,nodejs,express,pytorch,opencv,sqlite,postgres&theme=dark" alt="stack" />
+
+`Python` `JavaScript` `TypeScript` `C` `SQL`  
+`React` `Next.js` `Tailwind` `Vite`  
+`FastAPI` `Node.js` `Express`  
+`scikit-learn` `OpenCV` `MediaPipe` `PyTorch`  
+`SQLite` `PostgreSQL`
