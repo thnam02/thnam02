@@ -23,7 +23,7 @@ jobs:
         uses: zients/github-readme-streak-stats@v2
         with:
           options: >-
-            user=thnam02&theme=github-dark-blue&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&currStreakNum=F0F6FC&sideLabels=8B949E&sideNums=F0F6FC&dates=8B949E&stroke=161B22&disable_animations=true&starting_year=2026&hide_current_streak=true&card_width=495&card_height=170
+            user=thnam02&theme=github-dark-blue&hide_border=true&background=161B22&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=161B22&disable_animations=true&starting_year=2026
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
