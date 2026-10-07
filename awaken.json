@@ -1,7 +1,7 @@
 {
   "username": "thnam02",
   "layout": "custom",
-  "widgets": ["levelup", "hunter", "ladder", "web", "skills", "activity", "quest", "contribution", "oracle", "daily", "runes"],
+  "widgets": ["levelup", "status", "activity", "skills", "quest", "contribution", "daily"],
   "theme": "solo_leveling",
   "activity": "raid",
   "title": "auto",
