@@ -12,11 +12,11 @@
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/skills-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/skills-light.svg"><img src="awaken/skills-dark.svg" width="49%" alt="thnam02: passive skills"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/quest-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/quest-light.svg"><img src="awaken/quest-dark.svg" width="49%" alt="thnam02: active quest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hours-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hours-light.svg"><img src="awaken/hours-dark.svg" width="49%" alt="thnam02: hunting hours"></picture>
 </p>
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contribution-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contribution-light.svg"><img src="awaken/contribution-dark.svg" width="49%" alt="thnam02: contribution log"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="thnam02: daily quest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/combat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/combat-light.svg"><img src="awaken/combat-dark.svg" width="49%" alt="thnam02: combat record"></picture>
 </p>
 <!-- AWAKEN:END -->
