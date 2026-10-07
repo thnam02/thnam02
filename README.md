@@ -1,13 +1,3 @@
-<div align="center">
-<h1>Hai Nam Tran</h1>
-<p>
-<strong>AI & Backend Developer · Computer Science @ UNSW</strong><br />
-Building backend, machine learning and computer vision systems.<br />
-Sydney, Australia
-</p>
-
-[GitHub](https://github.com/thnam02) · [LinkedIn](https://www.linkedin.com/in/hai-nam-tran-06a45029a)
-
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />
 <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
