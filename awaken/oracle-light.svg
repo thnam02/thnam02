@@ -33,14 +33,14 @@
 
 </defs>
 <path d="M18 4H416V262L402 276H4V18Z" fill="#ffffff"/>
-<path d="M18 4H416V40H4V18Z" fill="#f4f3f3"/>
-<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#e6e2e3"/>
-<text x="210" y="27" class="wtitle" fill="#c0213f" text-anchor="middle">[ ORACLE SCROLL ]</text>
-<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#b5858e" stroke-width="1.5"/>
-<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#c0213f" stroke-width="2"/>
-<text x="18" y="94" class="hero" fill="#c0213f" style="font-size:44px">“</text>
-<text x="20" y="108" class="name" fill="#2c0a12">The most disastrous thing that you</text><text x="20" y="135" class="name" fill="#2c0a12">can ever learn is your first</text><text x="20" y="162" class="name" fill="#2c0a12">programming language.</text>
-<text x="20" y="195" class="body" fill="#7a4652">— Alan Kay</text>
-<text x="20" y="258" class="code" fill="#7a4652">SCROLL OF THE DAY</text>
-<text x="400" y="258" class="code" fill="#7a4652" text-anchor="end">2026-10-07</text>
+<path d="M18 4H416V40H4V18Z" fill="#eef3fb"/>
+<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#d5deee"/>
+<text x="210" y="27" class="wtitle" fill="#1f5fd6" text-anchor="middle">[ ORACLE SCROLL ]</text>
+<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
+<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
+<text x="18" y="94" class="hero" fill="#1f5fd6" style="font-size:44px">“</text>
+<text x="20" y="108" class="name" fill="#0d1830">The most disastrous thing that you</text><text x="20" y="135" class="name" fill="#0d1830">can ever learn is your first</text><text x="20" y="162" class="name" fill="#0d1830">programming language.</text>
+<text x="20" y="195" class="body" fill="#4a5a7c">— Alan Kay</text>
+<text x="20" y="258" class="code" fill="#4a5a7c">SCROLL OF THE DAY</text>
+<text x="400" y="258" class="code" fill="#4a5a7c" text-anchor="end">2026-10-07</text>
 </svg>

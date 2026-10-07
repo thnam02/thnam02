@@ -33,66 +33,66 @@
 
 </defs>
 <path d="M18 4H836V226L822 240H4V18Z" fill="#ffffff"/>
-<path d="M18 4H836V40H4V18Z" fill="#f4f3f3"/>
-<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#e6e2e3"/>
-<text x="420" y="27" class="wtitle" fill="#c0213f" text-anchor="middle">[ HUNTER LICENSE ]</text>
-<path d="M18.4 4.8H835.3V225.6L821.5 239.3H4.8V18.4Z" fill="none" stroke="#b5858e" stroke-width="1.5"/>
-<path class="breathe" d="M825 1H839V15M1 229V243H15" fill="none" stroke="#c0213f" stroke-width="2"/>
-<text x="58" y="62" class="label" fill="#7a4652" text-anchor="middle">RANK</text>
+<path d="M18 4H836V40H4V18Z" fill="#eef3fb"/>
+<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#d5deee"/>
+<text x="420" y="27" class="wtitle" fill="#1f5fd6" text-anchor="middle">[ HUNTER LICENSE ]</text>
+<path d="M18.4 4.8H835.3V225.6L821.5 239.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
+<path class="breathe" d="M825 1H839V15M1 229V243H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
+<text x="58" y="62" class="label" fill="#4a5a7c" text-anchor="middle">RANK</text>
 <g class="pulse">
 
-<path d="M28 72H96V140L88 148H20V80Z" fill="#fcf3f5"/>
+<path d="M28 72H96V140L88 148H20V80Z" fill="#f4f7fc"/>
 <path d="M28.4 73H95V139.6L87.6 147H21V80.4Z" fill="none" stroke="#a23cd6" stroke-width="2"/>
 <text x="58" y="127.3" class="hero" fill="#a23cd6" text-anchor="middle">A</text>
 
 </g>
-<text x="58" y="168" class="caption" fill="#2c0a12" text-anchor="middle">TOP 10%</text>
-<text x="124" y="78" class="name" fill="#2c0a12">thnam02</text>
-<text x="124" y="100" class="body" fill="#7a4652">Hai Nam Tran</text>
-<text x="124" y="122" class="body" fill="#2c0a12">Grand Magus · Arcane · LV. 8</text>
-<text x="124" y="144" class="label" fill="#7a4652">TITLE</text><text x="176" y="144" class="strong flicker" fill="#c0213f">Quickdraw</text>
-<text x="124" y="166" class="caption" fill="#7a4652">AWAKENED 2023-10-18</text>
+<text x="58" y="168" class="caption" fill="#0d1830" text-anchor="middle">TOP 10%</text>
+<text x="124" y="78" class="name" fill="#0d1830">thnam02</text>
+<text x="124" y="100" class="body" fill="#4a5a7c">Hai Nam Tran</text>
+<text x="124" y="122" class="body" fill="#0d1830">Grand Magus · Arcane · LV. 8</text>
+<text x="124" y="144" class="label" fill="#4a5a7c">TITLE</text><text x="176" y="144" class="strong flicker" fill="#1f5fd6">Quickdraw</text>
+<text x="124" y="166" class="caption" fill="#4a5a7c">AWAKENED 2023-10-18</text>
 <g>
 
-<path d="M458 64H500V90L494 96H452V70Z" fill="#fcf3f5"/>
+<path d="M458 64H500V90L494 96H452V70Z" fill="#f4f7fc"/>
 <path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#a23cd6" stroke-width="2"/>
 <text x="476" y="87.2" class="rank" fill="#a23cd6" text-anchor="middle">A</text>
 
-</g><text x="510" y="70" class="label" fill="#7a4652">STR</text><text x="510" y="88" class="value" fill="#2c0a12">307</text><text x="510" y="103" class="code" fill="#7a4652">TOP 12%</text>
+</g><text x="510" y="70" class="label" fill="#4a5a7c">STR</text><text x="510" y="88" class="value" fill="#0d1830">307</text><text x="510" y="103" class="code" fill="#4a5a7c">TOP 12%</text>
 <g>
 
-<path d="M582 64H624V90L618 96H576V70Z" fill="#fcf3f5"/>
+<path d="M582 64H624V90L618 96H576V70Z" fill="#f4f7fc"/>
 <path d="M582.4 65H623V89.6L617.6 95H577V70.4Z" fill="none" stroke="#a67800" stroke-width="2"/><path d="M583.5 68.5H619.5V88.5L616.5 91.5H580.5V71.5Z" fill="none" stroke="#a67800" stroke-width="1"/>
 <text x="600" y="87.2" class="rank" fill="#a67800" text-anchor="middle">S</text>
 
-</g><text x="634" y="70" class="label" fill="#7a4652">AGI</text><text x="634" y="88" class="value" fill="#2c0a12">40</text><text x="634" y="103" class="code" fill="#7a4652">TOP 5.2%</text>
+</g><text x="634" y="70" class="label" fill="#4a5a7c">AGI</text><text x="634" y="88" class="value" fill="#0d1830">40</text><text x="634" y="103" class="code" fill="#4a5a7c">TOP 5.2%</text>
 <g>
 
-<path d="M706 64H748V90L742 96H700V70Z" fill="#fcf3f5"/>
+<path d="M706 64H748V90L742 96H700V70Z" fill="#f4f7fc"/>
 <path d="M706.2 64.5H747.5V89.8L741.8 95.5H700.5V70.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="724" y="87.2" class="rank" fill="#7a8292" text-anchor="middle">E</text>
 
-</g><text x="758" y="70" class="label" fill="#7a4652">INT</text><text x="758" y="88" class="value" fill="#2c0a12">0</text><text x="758" y="103" class="code" fill="#7a4652">TOP 100%</text>
+</g><text x="758" y="70" class="label" fill="#4a5a7c">INT</text><text x="758" y="88" class="value" fill="#0d1830">0</text><text x="758" y="103" class="code" fill="#4a5a7c">TOP 100%</text>
 <g>
 
-<path d="M458 128H500V154L494 160H452V134Z" fill="#fcf3f5"/>
+<path d="M458 128H500V154L494 160H452V134Z" fill="#f4f7fc"/>
 <path d="M458.4 129H499V153.6L493.6 159H453V134.4Z" fill="none" stroke="#a23cd6" stroke-width="2"/>
 <text x="476" y="151.2" class="rank" fill="#a23cd6" text-anchor="middle">A</text>
 
-</g><text x="510" y="134" class="label" fill="#7a4652">VIT</text><text x="510" y="152" class="value" fill="#2c0a12">10</text><text x="510" y="167" class="code" fill="#7a4652">TOP 6.5%</text>
+</g><text x="510" y="134" class="label" fill="#4a5a7c">VIT</text><text x="510" y="152" class="value" fill="#0d1830">10</text><text x="510" y="167" class="code" fill="#4a5a7c">TOP 6.5%</text>
 <g>
 
-<path d="M582 128H624V154L618 160H576V134Z" fill="#fcf3f5"/>
+<path d="M582 128H624V154L618 160H576V134Z" fill="#f4f7fc"/>
 <path d="M582.4 129H623V153.6L617.6 159H577V134.4Z" fill="none" stroke="#4b48e0" stroke-width="2"/>
 <text x="600" y="151.2" class="rank" fill="#4b48e0" text-anchor="middle">B</text>
 
-</g><text x="634" y="134" class="label" fill="#7a4652">LUK</text><text x="634" y="152" class="value" fill="#2c0a12">1</text><text x="634" y="167" class="code" fill="#7a4652">TOP 21%</text>
+</g><text x="634" y="134" class="label" fill="#4a5a7c">LUK</text><text x="634" y="152" class="value" fill="#0d1830">1</text><text x="634" y="167" class="code" fill="#4a5a7c">TOP 21%</text>
 <g>
 
-<path d="M706 128H748V154L742 160H700V134Z" fill="#fcf3f5"/>
+<path d="M706 128H748V154L742 160H700V134Z" fill="#f4f7fc"/>
 <path d="M706.4 129H747V153.6L741.6 159H701V134.4Z" fill="none" stroke="#16975a" stroke-width="2"/>
 <text x="724" y="151.2" class="rank" fill="#16975a" text-anchor="middle">C</text>
 
-</g><text x="758" y="134" class="label" fill="#7a4652">CHA</text><text x="758" y="152" class="value" fill="#2c0a12">2</text><text x="758" y="167" class="code" fill="#7a4652">TOP 28%</text>
-<text x="820" y="226" class="code" fill="#7a4652" text-anchor="end">@thnam02 · SYNCED 2026-10-07</text>
+</g><text x="758" y="134" class="label" fill="#4a5a7c">CHA</text><text x="758" y="152" class="value" fill="#0d1830">2</text><text x="758" y="167" class="code" fill="#4a5a7c">TOP 28%</text>
+<text x="820" y="226" class="code" fill="#4a5a7c" text-anchor="end">@thnam02 · SYNCED 2026-10-07</text>
 </svg>

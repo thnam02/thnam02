@@ -83,7 +83,7 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 9
+      "value": 10
     },
     {
       "id": "weekend-warrior",
@@ -194,5 +194,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-07T18:36:42.717Z"
+  "syncedAt": "2026-10-07T18:44:18.592Z"
 }

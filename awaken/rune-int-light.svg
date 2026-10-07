@@ -34,19 +34,19 @@
 </defs>
 <path d="M18 4H196V116L182 130H4V18Z" fill="#ffffff"/>
 
-<path d="M18.4 4.8H195.3V115.5L181.6 129.3H4.8V18.4Z" fill="none" stroke="#b5858e" stroke-width="1.5"/>
-<path class="breathe" d="M185 1H199V15M1 119V133H15" fill="none" stroke="#c0213f" stroke-width="2"/>
+<path d="M18.4 4.8H195.3V115.5L181.6 129.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
+<path class="breathe" d="M185 1H199V15M1 119V133H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
 <g>
 
-<path d="M24 18H72V60L66 66H18V24Z" fill="#fcf3f5"/>
+<path d="M24 18H72V60L66 66H18V24Z" fill="#f4f7fc"/>
 <path d="M24.2 18.5H71.5V59.8L65.8 65.5H18.5V24.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="45" y="49.2" class="rank" fill="#7a8292" text-anchor="middle">E</text>
 
 </g>
-<text x="84" y="36" class="label" fill="#7a4652">INT</text>
-<text x="84" y="58" class="body" fill="#2c0a12">Issues opened</text>
-<text x="18" y="98" class="value" fill="#2c0a12">0</text>
-<text x="182" y="98" class="caption" fill="#2c0a12" text-anchor="end">TOP 100%</text>
-<rect x="18" y="108" width="164" height="2" fill="#f4f3f3"/>
+<text x="84" y="36" class="label" fill="#4a5a7c">INT</text>
+<text x="84" y="58" class="body" fill="#0d1830">Issues opened</text>
+<text x="18" y="98" class="value" fill="#0d1830">0</text>
+<text x="182" y="98" class="caption" fill="#0d1830" text-anchor="end">TOP 100%</text>
+<rect x="18" y="108" width="164" height="2" fill="#eef3fb"/>
 <rect class="grow" x="18" y="108" width="0" height="2" fill="#7a8292"/>
 </svg>

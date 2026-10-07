@@ -32,43 +32,43 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 
 </defs>
-<path d="M18 4H836V254L822 268H4V18Z" fill="#1f080d"/>
-<path d="M18 4H836V40H4V18Z" fill="#2a1318"/>
-<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#3a2328"/>
-<text x="420" y="27" class="wtitle" fill="#ff5a76" text-anchor="middle">[ RANK LADDER ]</text>
-<path d="M18.4 4.8H835.3V253.6L821.5 267.3H4.8V18.4Z" fill="none" stroke="#a44756" stroke-width="1.5"/>
-<path class="breathe" d="M825 1H839V15M1 257V271H15" fill="none" stroke="#ff5a76" stroke-width="2" filter="url(#glow)"/>
-<text x="20" y="62" class="label" fill="#cc9ea7">WHERE YOU STAND AMONG REGULAR PLAYERS</text>
-<text x="820" y="62" class="caption" fill="#cc9ea7" text-anchor="end">E to EX, log scale of the top share</text>
+<path d="M18 4H836V254L822 268H4V18Z" fill="#0b1426"/>
+<path d="M18 4H836V40H4V18Z" fill="#111d36"/>
+<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#1c2c4f"/>
+<text x="420" y="27" class="wtitle" fill="#3d8bff" text-anchor="middle">[ RANK LADDER ]</text>
+<path d="M18.4 4.8H835.3V253.6L821.5 267.3H4.8V18.4Z" fill="none" stroke="#3566b8" stroke-width="1.5"/>
+<path class="breathe" d="M825 1H839V15M1 257V271H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
+<text x="20" y="62" class="label" fill="#8a9bc0">WHERE YOU STAND AMONG REGULAR PLAYERS</text>
+<text x="820" y="62" class="caption" fill="#8a9bc0" text-anchor="end">E to EX, log scale of the top share</text>
 <rect x="20" y="108" width="39.3" height="8" fill="#7b8496" opacity="0.8"/>
 <text x="40.6" y="96" class="rank" fill="#7b8496" text-anchor="middle">E</text>
 
 <rect x="61.3" y="108" width="30.8" height="8" fill="#a8b6cc" opacity="0.8"/>
 <text x="77.6" y="96" class="rank" fill="#a8b6cc" text-anchor="middle">D</text>
-<text x="61.3" y="132" class="code" fill="#cc9ea7" text-anchor="middle">60%</text>
+<text x="61.3" y="132" class="code" fill="#8a9bc0" text-anchor="middle">60%</text>
 <rect x="94.0" y="108" width="36.0" height="8" fill="#3ecf8e" opacity="0.8"/>
 <text x="113.0" y="96" class="rank" fill="#3ecf8e" text-anchor="middle">C</text>
-<text x="94.0" y="132" class="code" fill="#cc9ea7" text-anchor="middle">40%</text>
+<text x="94.0" y="132" class="code" fill="#8a9bc0" text-anchor="middle">40%</text>
 <rect x="132.0" y="108" width="50.8" height="8" fill="#8a86ff" opacity="0.8"/>
 <text x="158.4" y="96" class="rank" fill="#8a86ff" text-anchor="middle">B</text>
-<text x="132.0" y="132" class="code" fill="#cc9ea7" text-anchor="middle">25%</text>
+<text x="132.0" y="132" class="code" fill="#8a9bc0" text-anchor="middle">25%</text>
 <g class="fx-a" filter="url(#fx-blur)" opacity="0.75"><rect x="184.8" y="108" width="60.5" height="8" fill="#d77bff"/></g><rect x="184.8" y="108" width="60.5" height="8" fill="#d77bff"/><clipPath id="fs0"><path d="M184.8 108h60.5v8h-60.5Z"/></clipPath><g clip-path="url(#fs0)"><rect class="shine" x="157.6" y="108" width="27.2" height="8" fill="url(#shine)" style="animation-duration:4s"/></g>
 <g class="fx-a" filter="url(#fx-blur)" opacity="0.75"><text x="216.0" y="96" class="rank" fill="#d77bff" text-anchor="middle">A</text></g><text x="216.0" y="96" class="rank" fill="#d77bff" text-anchor="middle">A</text>
-<text x="184.8" y="132" class="code" fill="#cc9ea7" text-anchor="middle">13%</text>
+<text x="184.8" y="132" class="code" fill="#8a9bc0" text-anchor="middle">13%</text>
 <g class="fx-s" filter="url(#fx-blur)" opacity="0.75"><rect x="247.3" y="108" width="86.7" height="8" fill="#ffc53d"/></g><rect x="247.3" y="108" width="86.7" height="8" fill="#ffc53d"/><clipPath id="fs1"><path d="M247.3 108h86.7v8h-86.7Z"/></clipPath><g clip-path="url(#fs1)"><rect class="shine" x="208.2" y="108" width="39.0" height="8" fill="url(#shine)" style="animation-duration:3.2s"/></g>
 <g class="fx-s" filter="url(#fx-blur)" opacity="0.75"><text x="291.6" y="96" class="rank" fill="#ffc53d" text-anchor="middle">S</text></g><text x="291.6" y="96" class="rank" fill="#ffc53d" text-anchor="middle">S</text>
-<text x="247.3" y="132" class="code" fill="#cc9ea7" text-anchor="middle">6%</text>
+<text x="247.3" y="132" class="code" fill="#8a9bc0" text-anchor="middle">6%</text>
 <g class="fx-ss" filter="url(#fx-blur)" opacity="0.75"><rect x="336.0" y="108" width="110.0" height="8" fill="#ff8a3d"/></g><rect x="336.0" y="108" width="110.0" height="8" fill="#ff8a3d"/><clipPath id="fs2"><path d="M336.0 108h110.0v8h-110.0Z"/></clipPath><g clip-path="url(#fs2)"><rect class="shine" x="286.5" y="108" width="49.5" height="8" fill="url(#shine)" style="animation-duration:3.2s"/></g>
 <g class="fx-ss" filter="url(#fx-blur)" opacity="0.75"><text x="392.0" y="96" class="rank" fill="#ff8a3d" text-anchor="middle">SS</text></g><text x="392.0" y="96" class="rank" fill="#ff8a3d" text-anchor="middle">SS</text>
-<text x="336.0" y="132" class="code" fill="#cc9ea7" text-anchor="middle">2%</text>
+<text x="336.0" y="132" class="code" fill="#8a9bc0" text-anchor="middle">2%</text>
 <g class="fx-sss" filter="url(#fx-blur)" opacity="0.75"><rect x="448.0" y="108" width="184.0" height="8" fill="#ff3d5e"/></g><rect x="448.0" y="108" width="184.0" height="8" fill="#ff3d5e"/><clipPath id="fs3"><path d="M448.0 108h184.0v8h-184.0Z"/></clipPath><g clip-path="url(#fs3)"><rect class="shine" x="365.2" y="108" width="82.8" height="8" fill="url(#shine)" style="animation-duration:1.9s"/></g>
 <g class="fx-sss" filter="url(#fx-blur)" opacity="0.75"><text x="541.0" y="96" class="rank tight" fill="#ff3d5e" text-anchor="middle">SSS</text></g><text x="541.0" y="96" class="rank tight" fill="#ff3d5e" text-anchor="middle">SSS</text>
-<text x="448.0" y="132" class="code" fill="#cc9ea7" text-anchor="middle">0.5%</text>
+<text x="448.0" y="132" class="code" fill="#8a9bc0" text-anchor="middle">0.5%</text>
 <g class="fx-ex" filter="url(#fx-blur)" opacity="0.75"><rect x="634.0" y="108" width="184.0" height="8" fill="#f2fbff"/></g><clipPath id="lx0"><rect x="634.0" y="108" width="184.0" height="8"/></clipPath><g clip-path="url(#lx0)"><rect class="flow" x="634.0" y="108" width="368.0" height="8" fill="url(#exflow)"/></g><clipPath id="fs4"><path d="M634.0 108h184.0v8h-184.0Z"/></clipPath><g clip-path="url(#fs4)"><rect class="shine" x="551.2" y="108" width="82.8" height="8" fill="url(#shine)" style="animation-duration:2.4s"/></g>
 <g class="fx-ex" filter="url(#fx-blur)" opacity="0.75"><text x="727.0" y="96" class="rank" fill="#f2fbff" text-anchor="middle">EX</text></g><text x="727.0" y="96" class="rank" fill="#f2fbff" text-anchor="middle">EX</text>
-<text x="634.0" y="132" class="code" fill="#cc9ea7" text-anchor="middle">0.05%</text>
-<rect class="pulse" x="204.4" y="102" width="2" height="20" fill="#ff5a76" filter="url(#glow)"/>
-<text x="205.4" y="150" class="caption" fill="#ff5a76" text-anchor="middle">▲ YOU · TOP 10%</text>
-<rect x="190.9" y="156" width="2" height="18" fill="#3a2328"/><text x="191.9" y="186" class="code" fill="#cc9ea7" text-anchor="middle">STR</text><rect x="257.3" y="156" width="2" height="32" fill="#3a2328"/><text x="258.3" y="200" class="code" fill="#cc9ea7" text-anchor="middle">AGI</text><rect x="19" y="156" width="2" height="46" fill="#3a2328"/><text x="20" y="214" class="code" fill="#cc9ea7" text-anchor="middle">INT</text><rect x="239.6" y="156" width="2" height="18" fill="#3a2328"/><text x="240.6" y="186" class="code" fill="#cc9ea7" text-anchor="middle">VIT</text><rect x="145.5" y="156" width="2" height="32" fill="#3a2328"/><text x="146.5" y="200" class="code" fill="#cc9ea7" text-anchor="middle">LUK</text><rect x="120.5" y="156" width="2" height="46" fill="#3a2328"/><text x="121.5" y="214" class="code" fill="#cc9ea7" text-anchor="middle">CHA</text>
-<text x="820" y="254" class="code" fill="#cc9ea7" text-anchor="end">@thnam02 · SYNCED 2026-10-07</text>
+<text x="634.0" y="132" class="code" fill="#8a9bc0" text-anchor="middle">0.05%</text>
+<rect class="pulse" x="204.4" y="102" width="2" height="20" fill="#3d8bff" filter="url(#glow)"/>
+<text x="205.4" y="150" class="caption" fill="#3d8bff" text-anchor="middle">▲ YOU · TOP 10%</text>
+<rect x="190.9" y="156" width="2" height="18" fill="#1c2c4f"/><text x="191.9" y="186" class="code" fill="#8a9bc0" text-anchor="middle">STR</text><rect x="257.3" y="156" width="2" height="32" fill="#1c2c4f"/><text x="258.3" y="200" class="code" fill="#8a9bc0" text-anchor="middle">AGI</text><rect x="19" y="156" width="2" height="46" fill="#1c2c4f"/><text x="20" y="214" class="code" fill="#8a9bc0" text-anchor="middle">INT</text><rect x="239.6" y="156" width="2" height="18" fill="#1c2c4f"/><text x="240.6" y="186" class="code" fill="#8a9bc0" text-anchor="middle">VIT</text><rect x="145.5" y="156" width="2" height="32" fill="#1c2c4f"/><text x="146.5" y="200" class="code" fill="#8a9bc0" text-anchor="middle">LUK</text><rect x="120.5" y="156" width="2" height="46" fill="#1c2c4f"/><text x="121.5" y="214" class="code" fill="#8a9bc0" text-anchor="middle">CHA</text>
+<text x="820" y="254" class="code" fill="#8a9bc0" text-anchor="end">@thnam02 · SYNCED 2026-10-07</text>
 </svg>
