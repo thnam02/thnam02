@@ -25,16 +25,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/thnam02/AstraOS"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-1-light.svg"><img src="awaken/spotlight-1-dark.svg" width="49%" alt="thnam02/AstraOS"></picture></a>
-<a href="https://github.com/NguyenVuAnNhan/FIDES"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-2-light.svg"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="NguyenVuAnNhan/FIDES"></picture></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/thnam02/ace.gg"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-3-light.svg"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="thnam02/ace.gg"></picture></a>
-<a href="https://github.com/thnam02/Hack2Heal"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-4-light.svg"><img src="awaken/spotlight-4-dark.svg" width="49%" alt="thnam02/Hack2Heal"></picture></a>
-</p>
-
-<p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/oracle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/oracle-light.svg"><img src="awaken/oracle-dark.svg" width="49%" alt="thnam02: oracle scroll"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="thnam02: daily quest"></picture>
 </p>

@@ -3,7 +3,7 @@
   "level": 8,
   "overall": "A",
   "overallPercentile": 0.89925177034033,
-  "layout": "default",
+  "layout": "custom",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
@@ -194,5 +194,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-07T18:44:18.592Z"
+  "syncedAt": "2026-10-07T18:49:51.337Z"
 }
