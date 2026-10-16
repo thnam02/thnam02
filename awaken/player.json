@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-16T18:00:47.201Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "8",
@@ -163,17 +170,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 9
+      "value": 12
     },
     {
       "id": "boss-slayer",
@@ -187,12 +194,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 2,
@@ -239,17 +251,19 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 9,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 12,
     "bosses": [],
     "escapes": 2,
     "kinds": [
       "contribute",
       "three",
-      "average"
+      "average",
+      "mp",
+      "commit"
     ]
   },
-  "syncedAt": "2026-10-15T18:15:28.624Z"
+  "syncedAt": "2026-10-16T18:00:47.201Z"
 }
