@@ -2,7 +2,7 @@
   "login": "thnam02",
   "level": 9,
   "overall": "A",
-  "overallPercentile": 0.9017498306912498,
+  "overallPercentile": 0.8996904927079588,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 11,
-      "rank": "S",
-      "percentile": 0.9499142157630279
+      "value": 10,
+      "rank": "A",
+      "percentile": 0.9348315269247548
     },
     {
       "code": "LUK",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "S",
+      "to": "A",
+      "at": "2026-10-19T19:53:29.268Z"
+    },
     {
       "kind": "achievement",
       "subject": "veteran",
@@ -122,7 +129,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 9
+      "value": 8
     },
     {
       "id": "raider",
@@ -208,6 +215,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-19",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-18",
         "cleared": 0,
         "total": 3
@@ -282,5 +294,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-18T17:20:15.243Z"
+  "syncedAt": "2026-10-19T19:53:29.268Z"
 }
