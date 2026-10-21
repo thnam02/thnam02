@@ -69,20 +69,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-16T18:00:47.201Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "8",
-      "to": "9",
-      "at": "2026-10-14T18:35:23.279Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "A",
-      "to": "S",
-      "at": "2026-10-14T18:35:23.279Z"
     }
   ],
   "achievements": [
@@ -215,6 +201,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-21",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-20",
         "cleared": 0,
         "total": 3
@@ -299,5 +290,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-20T18:27:09.079Z"
+  "syncedAt": "2026-10-21T18:35:33.325Z"
 }
