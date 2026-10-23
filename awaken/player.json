@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-23T18:17:29.652Z"
+    },
+    {
       "kind": "stat",
       "subject": "VIT",
       "from": "S",
@@ -62,13 +69,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-18T17:20:15.243Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-16T18:00:47.201Z"
     }
   ],
   "achievements": [
@@ -110,7 +110,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 38
+      "value": 37
     },
     {
       "id": "gate-opener",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 81
+      "value": 82
     },
     {
       "id": "daily-grinder",
@@ -180,12 +180,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 14
+      "value": 16
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 2,
@@ -284,8 +289,10 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 14,
-    "bosses": [],
+    "questsDone": 16,
+    "bosses": [
+      "2026-10-19"
+    ],
     "escapes": 2,
     "kinds": [
       "contribute",
@@ -295,5 +302,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-22T18:30:19.655Z"
+  "syncedAt": "2026-10-23T18:17:29.652Z"
 }
