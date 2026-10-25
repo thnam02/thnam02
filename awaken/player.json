@@ -2,20 +2,20 @@
   "login": "thnam02",
   "level": 9,
   "overall": "A",
-  "overallPercentile": 0.9059386048199297,
+  "overallPercentile": 0.9061409153552433,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
     "from": "Python"
   },
-  "title": "Quickdraw",
+  "title": "Weekend Warrior",
   "stats": [
     {
       "code": "STR",
-      "value": 427,
+      "value": 432,
       "rank": "A",
-      "percentile": 0.9181927835877726
+      "percentile": 0.9193278599787591
     },
     {
       "code": "AGI",
@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-25T17:37:59.462Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "boss-slayer",
       "from": "0",
       "to": "1",
@@ -62,13 +69,6 @@
       "from": "S",
       "to": "A",
       "at": "2026-10-19T19:53:29.268Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "veteran",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-18T17:20:15.243Z"
     }
   ],
   "achievements": [
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 427
+      "value": 432
     },
     {
       "id": "unbroken",
@@ -100,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 33
+      "value": 34
     },
     {
       "id": "early-bird",
@@ -109,8 +109,8 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 2,
-      "value": 44
+      "tier": 3,
+      "value": 45
     },
     {
       "id": "gate-opener",
@@ -160,12 +160,12 @@
     {
       "id": "berserker",
       "tier": 2,
-      "value": 37
+      "value": 38
     },
     {
       "id": "diligent",
       "tier": 1,
-      "value": 87
+      "value": 88
     },
     {
       "id": "daily-grinder",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 18
+      "value": 20
     },
     {
       "id": "boss-slayer",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-25",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-24",
         "cleared": 2,
@@ -294,7 +299,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 18,
+    "questsDone": 20,
     "bosses": [
       "2026-10-19"
     ],
@@ -308,5 +313,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-24T17:25:04.562Z"
+  "syncedAt": "2026-10-25T17:37:59.462Z"
 }
