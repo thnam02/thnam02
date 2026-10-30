@@ -2,7 +2,7 @@
   "login": "thnam02",
   "level": 9,
   "overall": "A",
-  "overallPercentile": 0.9045267594774667,
+  "overallPercentile": 0.9061119616129959,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 372,
+      "value": 392,
       "rank": "A",
-      "percentile": 0.9038286606763567
+      "percentile": 0.9094860473482301
     },
     {
       "code": "AGI",
-      "value": 44,
+      "value": 46,
       "rank": "S",
-      "percentile": 0.9534190404477497
+      "percentile": 0.9559367662846818
     },
     {
       "code": "INT",
@@ -62,35 +62,28 @@
       "from": "2",
       "to": "3",
       "at": "2026-10-25T17:37:59.462Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-23T18:17:29.652Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 38
+      "value": 40
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 33
+      "value": 35
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 37
+      "value": 39
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 372
+      "value": 392
     },
     {
       "id": "unbroken",
@@ -100,7 +93,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 43
+      "value": 42
     },
     {
       "id": "early-bird",
@@ -110,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 41
+      "value": 39
     },
     {
       "id": "gate-opener",
@@ -125,7 +118,7 @@
     {
       "id": "flawless",
       "tier": 1,
-      "value": 86
+      "value": 87
     },
     {
       "id": "healer",
@@ -165,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 91
+      "value": 92
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 27
+      "value": 30
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-30",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-29",
         "cleared": 1,
@@ -316,10 +314,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 0,
+    "perfectDays": 3,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 27,
+    "questsDone": 30,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
@@ -334,5 +332,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-29T19:36:34.788Z"
+  "syncedAt": "2026-10-30T19:19:16.437Z"
 }
