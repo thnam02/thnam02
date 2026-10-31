@@ -1,27 +1,27 @@
 {
   "login": "thnam02",
-  "level": 9,
+  "level": 11,
   "overall": "A",
-  "overallPercentile": 0.9061119616129959,
+  "overallPercentile": 0.9199482232891251,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
     "from": "Python"
   },
-  "title": "Quickdraw",
+  "title": "Berserker",
   "stats": [
     {
       "code": "STR",
-      "value": 392,
-      "rank": "A",
-      "percentile": 0.9094860473482301
+      "value": 772,
+      "rank": "S",
+      "percentile": 0.9622712924491533
     },
     {
       "code": "AGI",
-      "value": 46,
+      "value": 47,
       "rank": "S",
-      "percentile": 0.9559367662846818
+      "percentile": 0.9571199027450578
     },
     {
       "code": "INT",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
-      "rank": "A",
-      "percentile": 0.9348315269247548
+      "value": 12,
+      "rank": "S",
+      "percentile": 0.9612128887423135
     },
     {
       "code": "LUK",
@@ -49,6 +49,41 @@
     }
   ],
   "events": [
+    {
+      "kind": "level",
+      "subject": "Level",
+      "from": "9",
+      "to": "11",
+      "at": "2026-10-31T18:30:44.466Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "A",
+      "to": "S",
+      "at": "2026-10-31T18:30:44.466Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "A",
+      "to": "S",
+      "at": "2026-10-31T18:30:44.466Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-31T18:30:44.466Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "berserker",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-31T18:30:44.466Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -68,22 +103,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 40
+      "value": 41
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 35
+      "value": 36
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 39
+      "value": 40
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 392
+      "value": 772
     },
     {
       "id": "unbroken",
@@ -93,7 +128,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 42
+      "value": 35
     },
     {
       "id": "early-bird",
@@ -102,13 +137,13 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 2,
-      "value": 39
+      "tier": 3,
+      "value": 46
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 8
+      "value": 10
     },
     {
       "id": "raider",
@@ -152,28 +187,28 @@
     },
     {
       "id": "berserker",
-      "tier": 2,
-      "value": 38
+      "tier": 3,
+      "value": 68
     },
     {
       "id": "diligent",
       "tier": 1,
-      "value": 92
+      "value": 93
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 33
     },
     {
       "id": "boss-slayer",
@@ -193,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-31",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-30",
         "cleared": 3,
@@ -314,10 +354,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 3,
-    "run": 1,
-    "bestRun": 1,
-    "questsDone": 30,
+    "perfectDays": 4,
+    "run": 2,
+    "bestRun": 2,
+    "questsDone": 33,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
@@ -332,5 +372,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-30T19:19:16.437Z"
+  "syncedAt": "2026-10-31T18:30:44.466Z"
 }
