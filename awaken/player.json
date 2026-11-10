@@ -2,7 +2,7 @@
   "login": "thnam02",
   "level": 12,
   "overall": "A",
-  "overallPercentile": 0.9268527221156999,
+  "overallPercentile": 0.9269173742080028,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 905,
+      "value": 909,
       "rank": "S",
-      "percentile": 0.9700230925352472
+      "percentile": 0.9702178295003274
     },
     {
       "code": "AGI",
@@ -97,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 905
+      "value": 909
     },
     {
       "id": "unbroken",
@@ -107,7 +107,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "early-bird",
@@ -172,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 99
+      "value": 100
     },
     {
       "id": "daily-grinder",
@@ -187,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 48
+      "value": 49
     },
     {
       "id": "boss-slayer",
@@ -207,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-10",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-09",
         "cleared": 3,
@@ -364,9 +369,9 @@
       }
     ],
     "perfectDays": 7,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 48,
+    "questsDone": 49,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -384,5 +389,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-09T23:25:56.447Z"
+  "syncedAt": "2026-11-10T20:47:33.332Z"
 }
