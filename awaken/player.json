@@ -76,13 +76,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-09T23:25:56.447Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-05T21:04:01.535Z"
     }
   ],
   "achievements": [
@@ -194,12 +187,12 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 52
+      "value": 53
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "escape-artist",
@@ -214,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-12",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-11",
         "cleared": 3,
@@ -381,10 +379,11 @@
       }
     ],
     "perfectDays": 8,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 52,
+    "questsDone": 53,
     "bosses": [
+      "2026-11-09",
       "2026-11-02",
       "2026-10-26",
       "2026-10-19"
@@ -401,5 +400,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-11T21:22:53.716Z"
+  "syncedAt": "2026-11-12T21:27:14.204Z"
 }
