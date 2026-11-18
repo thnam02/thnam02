@@ -2,7 +2,7 @@
   "login": "thnam02",
   "level": 12,
   "overall": "A",
-  "overallPercentile": 0.9291342080458904,
+  "overallPercentile": 0.9306071817403186,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 963,
+      "value": 994,
       "rank": "S",
-      "percentile": 0.9726710275580771
+      "percentile": 0.9739449075153247
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 14,
-      "rank": "S",
-      "percentile": 0.9762310688639344
+      "value": 15,
+      "rank": "SS",
+      "percentile": 0.9812036646741934
     },
     {
       "code": "LUK",
@@ -50,18 +50,18 @@
   ],
   "events": [
     {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-11-18T21:53:57.660Z"
+    },
+    {
       "kind": "achievement",
       "subject": "escape-artist",
       "from": "0",
       "to": "1",
       "at": "2026-11-17T22:17:13.129Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "quest-hunter",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-11T21:22:53.716Z"
     }
   ],
   "achievements": [
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 963
+      "value": 994
     },
     {
       "id": "unbroken",
@@ -92,8 +92,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 30
+      "tier": 1,
+      "value": 29
     },
     {
       "id": "early-bird",
@@ -102,8 +102,8 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 3,
-      "value": 45
+      "tier": 2,
+      "value": 44
     },
     {
       "id": "gate-opener",
@@ -158,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 102
+      "value": 103
     },
     {
       "id": "daily-grinder",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 61
+      "value": 63
     },
     {
       "id": "boss-slayer",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-18",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-17",
         "cleared": 2,
@@ -392,7 +397,7 @@
     "perfectDays": 8,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 61,
+    "questsDone": 63,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -411,5 +416,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-17T22:17:13.129Z"
+  "syncedAt": "2026-11-18T21:53:57.660Z"
 }
