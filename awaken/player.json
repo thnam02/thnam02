@@ -2,7 +2,7 @@
   "login": "thnam02",
   "level": 12,
   "overall": "A",
-  "overallPercentile": 0.9306071817403186,
+  "overallPercentile": 0.9307218935409425,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 994,
+      "value": 1003,
       "rank": "S",
-      "percentile": 0.9739449075153247
+      "percentile": 0.9742981290086229
     },
     {
       "code": "AGI",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "relentless",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-19T22:07:54.121Z"
+    },
+    {
       "kind": "stat",
       "subject": "VIT",
       "from": "S",
@@ -82,8 +89,8 @@
     },
     {
       "id": "relentless",
-      "tier": 1,
-      "value": 994
+      "tier": 2,
+      "value": 1003
     },
     {
       "id": "unbroken",
@@ -103,7 +110,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 44
+      "value": 43
     },
     {
       "id": "gate-opener",
@@ -163,7 +170,7 @@
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 8
+      "value": 9
     },
     {
       "id": "perfect-week",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 63
+      "value": 66
     },
     {
       "id": "boss-slayer",
@@ -193,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-19",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-18",
         "cleared": 2,
@@ -394,10 +406,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 8,
-    "run": 0,
+    "perfectDays": 9,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 63,
+    "questsDone": 66,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -416,5 +428,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-18T21:53:57.660Z"
+  "syncedAt": "2026-11-19T22:07:54.121Z"
 }
