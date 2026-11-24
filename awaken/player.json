@@ -62,13 +62,6 @@
       "from": "S",
       "to": "SS",
       "at": "2026-11-18T21:53:57.660Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-17T22:17:13.129Z"
     }
   ],
   "achievements": [
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-24",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-23",
         "cleared": 0,
@@ -449,5 +447,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-24T01:38:30.194Z"
+  "syncedAt": "2026-11-24T23:27:44.983Z"
 }
