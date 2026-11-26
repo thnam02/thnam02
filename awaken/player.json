@@ -48,15 +48,7 @@
       "percentile": 0.7154979269401185
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "relentless",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-19T22:07:54.121Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-26",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-25",
         "cleared": 1,
@@ -445,5 +442,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-25T23:03:57.303Z"
+  "syncedAt": "2026-11-26T22:57:40.734Z"
 }
